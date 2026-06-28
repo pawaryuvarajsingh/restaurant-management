@@ -1,0 +1,23 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "Veg-Pizza",
+      "price": "300",
+      "category": "Fast Food"
+    },
+    {
+      "id": "2",
+      "name": "Burger",
+      "price": 180,
+      "category": "Fast Food"
+    },
+    {
+      "name": "fried rice",
+      "price": "200",
+      "category": "Chinese",
+      "id": "_LzfsNXYc80"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
